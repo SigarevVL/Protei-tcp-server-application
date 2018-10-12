@@ -15,6 +15,7 @@ public class Server {
 
         RequestHandler requestHandler = new RequestHandler();
 
+        //в соответствии с заданием, подключение нескольких клиентов намерено не реализовано
         try (ServerSocket serverSocket = new ServerSocket(PORT)){
             log.info("Starting server...");
             log.info("Waiting for client...");

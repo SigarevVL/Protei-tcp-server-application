@@ -20,9 +20,7 @@ public class Client {
 
     public static void main(String[] args) {
 
-
         RequestBuilder requestBuilder = new RequestBuilder();
-
 
         try (Socket socket = new Socket(HOST_NAME, SERVER_PORT)) {
             InputStream socketInputStream = socket.getInputStream();

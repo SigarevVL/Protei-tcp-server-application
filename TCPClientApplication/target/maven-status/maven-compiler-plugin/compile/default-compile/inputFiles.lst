@@ -1,1 +1,5 @@
-L:\PROGRAMS\MyProjects\Protei\TCPClientApplication\src\main\java\ru\protei\client\ClientRequest.java
+L:\PROGRAMS\MyProjects\Protei-tcp-server-application\TCPClientApplication\src\main\java\ru\protei\client\request\ClientRequest.java
+L:\PROGRAMS\MyProjects\Protei-tcp-server-application\TCPClientApplication\src\main\java\ru\protei\client\response\ResponseHandler.java
+L:\PROGRAMS\MyProjects\Protei-tcp-server-application\TCPClientApplication\src\main\java\ru\protei\client\request\RequestBuilder.java
+L:\PROGRAMS\MyProjects\Protei-tcp-server-application\TCPClientApplication\src\main\java\ru\protei\client\Client.java
+L:\PROGRAMS\MyProjects\Protei-tcp-server-application\TCPClientApplication\src\main\java\ru\protei\client\menu\SimpleMenu.java
