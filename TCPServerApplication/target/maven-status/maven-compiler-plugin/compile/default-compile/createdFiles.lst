@@ -1,0 +1,8 @@
+ru\protei\server\ServerResponse.class
+ru\protei\server\dao\implementations\WordDaoImpl.class
+ru\protei\server\dao\implementations\WordRowMapper.class
+ru\protei\server\Server.class
+ru\protei\server\RequestHandler.class
+ru\protei\server\dao\interfaces\WordDao.class
+ru\protei\server\Main.class
+ru\protei\server\objects\Word.class
